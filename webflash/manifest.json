@@ -1,5 +1,5 @@
 {
-    "name": "ESP Web TInstaller",
+    "name": "ESP Web Installer",
     "new_install_prompt_erase": true,
     "builds": [
       {
