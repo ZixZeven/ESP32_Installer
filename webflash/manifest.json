@@ -5,10 +5,7 @@
       {
         "chipFamily": "ESP32",
         "parts": [
-          { "path": "boot_app0.bin", "offset": 57344 },
-          { "path": "SSD1306_SHT31_Test.ino.bin", "offset": 65536 },
-          { "path": "SSD1306_SHT31_Test.ino.bootloader.bin", "offset": 4096 },
-          { "path": "SSD1306_SHT31_Test.ino.partitions.bin", "offset": 32768 }
+          { "path": "SSD1306_SHT31_Test.ino.esp32.bin", "offset": 65536 }
         ]
       }
     ]
